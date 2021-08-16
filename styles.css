@@ -1742,7 +1742,7 @@ body{
 text-align: justify;
 }
 
-.navbarbwrap, nav, aside, .social-share, .blog-pager, .comments, .entry-meta, .sidebar-containerbwrap {
+.navbarbwrap, nav, aside, .social-share, .blog-pager, #comments, .entry-meta, .sidebar-containerbwrap {
   display: none;
 }
 .site-headerbwrap, .site-info-container {
@@ -1779,4 +1779,12 @@ ins.adsbygoogle {
 		white-space: pre-wrap;
         overflow-x: scroll;
     }
+}
+
+.breadcrumbs {
+margin: 0px 0px 15px 0px;
+font-size:90%;
+line-height: 1.4em;
+border-bottom:3px double #e6e4e3;
+font-weight:bold;
 }
