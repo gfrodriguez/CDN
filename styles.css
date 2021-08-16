@@ -633,8 +633,8 @@ img.alignnone {
 	margin: 0 auto;
 	max-width: 960px;
 	overflow: inherit;
-	padding: 46px 0;
-	padding: 4.6rem 0;
+	padding: 10px 0;
+	padding: 1rem 0;
 	width: 100%;
 }
 
